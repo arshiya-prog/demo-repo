@@ -1,6 +1,5 @@
 # File for demo repo
-*Some description*
+*Some description!*
 
-''' Some Code '''
 > These are
 > Some quotes
